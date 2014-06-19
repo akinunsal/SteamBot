@@ -23,19 +23,10 @@ While running the bots you may find it necessary to do some basic operations lik
 If it's a bug, open an Issue; if you have a fix, read [CONTRIBUTING.md] and open a Pull Request.  If it is a question about how to use SteamBot with your own bots, visit our subreddit at [/r/SteamBot](http://www.reddit.com/r/SteamBot). Please use the issue tracker only for bugs reports and pull requests. The subreddit should be used for all other  discussions.
 
 
-A list of contributors (add yourself if you want to):
+A list of contributors:
 
 - [Jessecar96](http://steamcommunity.com/id/jessecar) (project lead)
 - [geel9](http://steamcommunity.com/id/geel9)
 - [cwhelchel](http://steamcommunity.com/id/cmw69krinkle)
 - [Lagg](http://lagg.me)
-
-## Wanna Contribute?
-Please read [CONTRIBUTING.md].
-
-
-   [installation guide]: https://github.com/Jessecar96/SteamBot/wiki/Installation-Guide
-   [CONTRIBUTING.md]: https://github.com/Jessecar96/SteamBot/blob/master/CONTRIBUTING.md
-   [LICENSE]: https://github.com/Jessecar96/SteamBot/blob/master/LICENSE
-   [configuration guide]: https://github.com/Jessecar96/SteamBot/wiki/Configuration-Guide
-   [usage guide]: https://github.com/Jessecar96/SteamBot/wiki/Usage-Guide
+- [akinunsal](http://heartbitgaming.com) (Forked and did minor edits
